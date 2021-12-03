@@ -1,3 +1,3 @@
-# exercicios_epicteamdev -  Grupo de Estudos Flutter
+# Exercicios Epicteamdev - Grupo de Estudos Flutter
 
   
