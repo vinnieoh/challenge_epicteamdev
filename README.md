@@ -1,3 +1,3 @@
-# exercicios_epicteamdev
-<h2> Grupo de Estudos Flutter <h2/>
+# exercicios_epicteamdev -  Grupo de Estudos Flutter
+
   
